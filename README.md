@@ -140,16 +140,6 @@ The frontend fetches data from these endpoints and renders the charts using High
 2. **View Charts**: Each page contains an interactive chart (Candlestick, Line, Bar, or Pie).
 3. **Explore Data**: Hover over the charts to explore the data points in real-time.
 
-## Screenshots
-
-### Candlestick Chart
-
-![Candlestick Chart Example](https://user-images.githubusercontent.com/1234567/candlestick-example.png)
-
-### Line Chart
-
-![Line Chart Example](https://user-images.githubusercontent.com/1234567/line-chart-example.png)
-
 ## Customization
 
 You can easily customize the project by:
