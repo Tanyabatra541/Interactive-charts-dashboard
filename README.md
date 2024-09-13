@@ -30,27 +30,6 @@ The charts are interactive and dynamic, providing real-time visualizations of da
 - **Charts**: Highcharts, Highcharts React Wrapper
 - **Styling**: Tailwind CSS for a modern and responsive UI
 
-## Folder Structure
-
-```
-/app
-  /candlestick
-    /page.tsx        <-- Candlestick chart component
-  /line
-    /page.tsx        <-- Line chart component
-  /bar
-    /page.tsx        <-- Bar chart component
-  /pie
-    /page.tsx        <-- Pie chart component
-  /layout.tsx        <-- Layout component for navigation
-  /components
-    /Navigation.tsx  <-- Interactive navigation bar
-  /globals.css       <-- Global CSS including Tailwind
-  /page.tsx          <-- Home page
-/backend
-  (Your backend code here - e.g., Django API)
-```
-
 ## How to Run the Project
 
 ### Prerequisites
